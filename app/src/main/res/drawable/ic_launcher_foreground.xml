@@ -1,0 +1,49 @@
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+
+    <!-- Glowing Background Aura behind the logo -->
+    <path
+        android:fillColor="#15FFFFFF"
+        android:pathData="M54,18 a36,36 0 1,0 0,72 a36,36 0 1,0 0,-72 z" />
+
+    <!-- Rounded Bento Square Base (ExamGen AI Branding Color: Deep Royal Indigo) -->
+    <path
+        android:fillColor="#4F46E5"
+        android:pathData="M34,18 h40 c8.8,0 16,7.2 16,16 v40 c0,8.8 -7.2,16 -16,16 H34 c-8.8,0 -16,-7.2 -16,-16 V34 C18,25.2 25.2,18 34,18 z" />
+
+    <!-- Inner Subtle Gradient/Highlight for Depth -->
+    <path
+        android:fillColor="#10FFFFFF"
+        android:pathData="M34,21 h40 c7.2,0 13,5.8 13,13 v16 c0,-7.2 -5.8,-13 -13,-13 H34 c-7.2,0 -13,5.8 -13,13 V34 C21,26.8 26.8,21 34,21 z" />
+
+    <!-- Clean, Elegant Graduation Cap (Education Symbol) -->
+    <!-- Cap Diamond Top Board -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M54,36 L78,46 L54,56 L30,46 Z" />
+
+    <!-- Cap Base (Skull Cap under-structure) -->
+    <path
+        android:fillColor="#F3F4F6"
+        android:pathData="M40,50 v10 c0,5.5 6.3,10 14,10 s14,-4.5 14,-10 v-10 z" />
+
+    <!-- Cap Tassel hanging from side -->
+    <path
+        android:fillColor="#E0E7FF"
+        android:pathData="M68,46 L68,58 C68,60 69,61 71,61 C73,61 74,60 74,58 z" />
+
+    <!-- Primary Glowing Gold AI Sparkle (Top-Right overlapping the Bento Square, representing Gemini AI) -->
+    <path
+        android:fillColor="#FFD54F"
+        android:pathData="M82,14 q0,12 12,12 q-12,0 -12,12 q0,-12 -12,-12 q12,0 12,-12 z" />
+
+    <!-- Secondary Small AI Sparkle (Top-Left for visual balance) -->
+    <path
+        android:fillColor="#FFE082"
+        android:pathData="M26,18 q0,8 8,8 q-8,0 -8,8 q0,-8 -8,-8 q8,0 8,-8 z" />
+
+</vector>
+

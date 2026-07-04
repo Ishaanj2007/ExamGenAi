@@ -1,0 +1,6 @@
+{
+  "name": "AI Question Paper Generator",
+  "description": "Automatically generate customizable and print-ready examination question papers from entered study material or topics using Google Gemini.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
