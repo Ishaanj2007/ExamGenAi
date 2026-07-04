@@ -2,9 +2,8 @@
 
 ExamGen AI is a modern, high-performance Android application built using **Kotlin**, **Jetpack Compose**, and **Google Gemini AI**. It allows educators, teachers, and students to automatically generate customizable, professional, and print-ready examination question papers from entered study passages or topics.
 
-Made with ❤️ by **Ishaan**
+Made by **Ishaan**
 - **Instagram**: [@ishaanj_19](https://instagram.com/ishaanj_19)
-- **GitHub**: [ishaanj2007](https://github.com/ishaanj2007)
 - **WhatsApp Support**: `ishaan_jadhav`
 
 ---
@@ -52,18 +51,3 @@ Made with ❤️ by **Ishaan**
    - Click the **Run** (green play) button in Android Studio.
 
 ---
-
-## 📦 How to Download/Release directly on GitHub
-
-To build a release-ready APK or AAB for publishing on GitHub Releases:
-
-1. In Android Studio, go to the top menu: **Build > Build Bundle(s) / APK(s) > Build APK(s)** (or **Generate Signed Bundle / APK...** if you want to sign it with a custom release keystore).
-2. Once compilation finishes, locate the generated APK in your project directory at:
-   `app/build/outputs/apk/debug/app-debug.apk` (or `release/app-release.apk`).
-3. Create a **New Release** on your GitHub repository (`ishaanj2007/ExamGenAI`):
-   - Go to your repository on GitHub.
-   - Click **Releases** on the right side.
-   - Click **Draft a new release**.
-   - Set the Tag version (e.g., `v1.0.0`) and Release Title.
-   - Drag and drop your compiled **`app-debug.apk`** or **`app-release.apk`** file into the binaries upload section.
-   - Click **Publish release**! Your users can now download the app directly.
